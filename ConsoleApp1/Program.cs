@@ -9,7 +9,8 @@ namespace ConsoleApp1
 
             i.Method1();
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello!");
+
             
         }
     }
